@@ -4,13 +4,14 @@ Para la entrega del trabajo práctico van a tener que configurar un repositorio 
 
 ### 1. Crear repositorio en GitHub
 ### 2. Instalar git
+https://git-scm.com/downloads
+
 ### 3. Configurar email y nombre de git
 De esta manera se sabe quién realizó cambios en el repositorio
 ```bash
 git config --global user.name "John Doe"
 git config --global user.email "johndoe@example.com"
 ```
-https://git-scm.com/downloads
 ### 4. Crear repositorio local con git
 #### Navegar a la carpeta donde vamos a trabajar
 ```bash
