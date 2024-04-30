@@ -15,3 +15,17 @@ Inicializar el repositorio adentro de esa carpeta
 #/path/de/la/carpeta
 git init
 ```
+Crear un archivo README.md dentro de la carpeta
+- Simplemente creen un archivo cualquiera dentro de la carpeta con el nombre README y una extensión .md
+
+Añadir los cambios al "área de preparación"
+```bash
+#/path/de/la/carpeta
+git add .
+```
+
+Hacer el primer "commit"
+```bash
+#/path/de/la/carpeta
+git commit -m "Primer commit"
+```
