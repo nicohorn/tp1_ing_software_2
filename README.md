@@ -42,6 +42,12 @@ git commit -m "Primer commit"
 git remote add origin https://github.com/tu-usuario/tu-repositorio.git
 ```
 
+### 6. Loggear en GitHub con el siguiente comando
+
+```bash
+git push --set-upstream origin master
+```
+
 
 Nota: pueden hacer uso del lenguaje de marcado "markdown" para darle estilos al documento README.md, GitHub soporta esto de forma nativa:
 https://github.com/im-luka/markdown-cheatsheet
