@@ -1,2 +1,2 @@
-# tp1_ing_software_2
-Ejemplo TP 1,  Ingeniería de software II
+# Trabajo práctico 1​
+Codificación y validaciones​
