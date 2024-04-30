@@ -29,3 +29,5 @@ git add .
 #/path/de/la/carpeta
 git commit -m "Primer commit"
 ```
+
+### 4. Conectar repositorio local con el repositorio remoto (GitHub)
