@@ -4,8 +4,14 @@ Para la entrega del trabajo práctico van a tener que configurar un repositorio 
 
 ### 1. Crear repositorio en GitHub
 ### 2. Instalar git
+### 3. Configurar email y nombre de git
+De esta manera se sabe quién realizó cambios en el repositorio
+```bash
+git config --global user.name "John Doe"
+git config --global user.email "johndoe@example.com"
+```
 https://git-scm.com/downloads
-### 3. Crear repositorio local con git
+### 4. Crear repositorio local con git
 #### Navegar a la carpeta donde vamos a trabajar
 ```bash
 cd /path/de/la/carpeta
@@ -30,4 +36,11 @@ git add .
 git commit -m "Primer commit"
 ```
 
-### 4. Conectar repositorio local con el repositorio remoto (GitHub)
+### 5. Conectar repositorio local con el repositorio remoto (GitHub)
+```bash
+git remote add origin https://github.com/tu-usuario/tu-repositorio.git
+```
+
+
+Nota: pueden hacer uso del lenguaje de marcado "markdown" para darle estilos al documento README.md, GitHub soporta esto de forma nativa:
+https://github.com/im-luka/markdown-cheatsheet
